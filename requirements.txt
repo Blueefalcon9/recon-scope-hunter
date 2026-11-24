@@ -1,3 +1,2 @@
-requests
-rich
-tqdm
+requests>=2.31
+rich>=13.0
